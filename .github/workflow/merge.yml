@@ -25,7 +25,7 @@ jobs:
         allow_ff: false
         allow_forks: true
       env:
-        GITHUB_TOKEN: ${{ secrets.MYTOKEN }}
+        GITHUB_TOKEN: ${{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}}
 
 
 
